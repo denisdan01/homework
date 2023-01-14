@@ -1,5 +1,5 @@
 Задание 2
 https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
 
-def repeat_str(repeat, string):
-    return ''
+def past(h, m, s):
+    return (h * 60 * 60 + m * 60 + s) * 1000
