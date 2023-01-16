@@ -3,3 +3,5 @@ https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a
 
 def repeat_str(repeat, string):
     return string*repeat
+
+# Задача не соответствует решению!
